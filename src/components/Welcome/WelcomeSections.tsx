@@ -17,11 +17,10 @@ export function Overview() {
                 <SpaceBetween size={'s'}>
                     <TextContent>
                         <Box variant="p">
-                            This sample React based web app shows the art of the possible in using AWS HealthScribe.
+                            This sample web app to show Dr. Ancha & Dr. Yaganti the possiblity of using AWS HealthScribe.
                         </Box>
                         <Box variant="p">
-                            AWS HealthScribe is a HIPAA-eligible service empowering healthcare software vendors to build
-                            clinical applications that automatically generate clinical notes by analyzing
+                            AWS HealthScribe is a HIPAA-eligible service that automatically generate clinical notes by analyzing
                             patient-clinician conversations.
                         </Box>
                     </TextContent>
